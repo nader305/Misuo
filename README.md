@@ -1,7 +1,9 @@
 MISUO Dashboard Analytical Report
 This report provides a comprehensive performance analysis of the MISUO platform based on the latest dashboard data.
 1. Key Performance Indicators (KPIs)
+   
  The following metrics summarize the overall operational and financial performance:
+ 
 Metric                              Value
 Total Orders                        118
 Total Quantity                      137
