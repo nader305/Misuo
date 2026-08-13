@@ -1,74 +1,92 @@
-MISUO Dashboard Analytical Report
-This report provides a comprehensive performance analysis of the MISUO platform based on the latest dashboard data.
-1. Key Performance Indicators (KPIs)
-   
- The following metrics summarize the overall operational and financial performance:
- 
-Total Orders:  118
-Total Quantity: 137
-Sold Units: 118
-Unsold Units: 19
-Total Sales: $1,163,380
-Average Sales : $10,404
-Failed Sales:$218,529
-----------------------------------------------------------------------
-3. Geographical Sales Analysis
-The sales distribution indicates a strong presence in the capital, with significant opportunities for growth in other cities.
+# 📊 Sales Dashboard – MISUO
 
-Cairo: $749,620 (Top Performer)
+A professional **Sales Analytics Dashboard** designed to transform raw sales data into **actionable business insights**. This project demonstrates data analysis, visualization best practices, and decision-oriented reporting.
 
-Giza: $246,485
+---
 
-Suez: $62,151
+## 🚀 Project Overview
 
-Alexandria: $39,857
+This dashboard provides a comprehensive view of sales performance across multiple dimensions, including:
 
-Qalyubia: $32,628
+* Revenue and customer metrics
+* Geographical distribution
+* Product categories and color preferences
+* Platform sales performance
+* Delivery status and fulfillment tracking
 
-Sharqia: $19,641
+The goal is to support **data-driven decision-making** for business stakeholders.
 
-Asyut: $12,999
+---
 
-Matrouh: $0
------------------------------------------------------------------------
-3. Product Categories & Color Preferences
-Top Selling Categories:
-Bed (سرير): $788,035
+## 📈 Key Metrics
 
-Sofa (كنبة): $219,235
+* **Total Orders:** 118
+* **Total Quantity:** 137
+* **Sold Units:** 118
+* **UnSold Units:** 19
+* **Total Sales:** $1,163,380
+* **Average Sales:** $10,404
+* **Failed Sales:** $218,529
 
-Table (ترابيزة): $115,510
+---
 
-Corner (ركنة): $22,000
+## 🏙️ Geographical Sales Breakdown
 
-Chair (كرسي): $18,600
-------------------------------------------------------------------------
+* **Cairo:** $749,620 *(Top Performing City)*
+* **Giza:** $246,485
+* **Suez:** $62,151
+* **Alexandria:** $39,857
+* **Qalyubia:** $32,628
+* **Sharqia:** $19,641
+* **Asyut:** $12,999
+* **Matrouh:** $0
 
-Top Selling Colors:
-The Black color dominates with sales of $375,957, followed by White, Gray, and others.
--------------------------------------------------------------------------------------
-4. Platform Performance & Delivery Status
-Top Platform: Homesmart (78 units sold).
+---
 
-Delivery Status:
+## 📦 Product Performance & Insights
 
-On-time: 42%
+### **Top Categories Sold:**
+* **Bed (سرير):** $788,035
+* **Sofa (كنبة):** $219,235
+* **Table (ترابيزة):** $115,510
+* **Corner (ركنة):** $22,000
+* **Chair (كرسي):** $18,600
 
-Early: 38%
+### **Top Color Sold:**
+* **Black:** Dominates sales at **$375,957**, followed by White, Gray, and other color variants.
 
-Delayed: 16%
+---
 
-Failed: 4%
---------------------------------------------------------------------------
-5. Strategic Recommendations
-   
-1-Reduce Failed Sales: Address the high volume of failed sales ($218,529) through improved logistics and order verification processes.
+## 🚚 Delivery & Platform Performance
 
-2-Market Expansion: Explore strategies to activate sales in regions with low performance, specifically targeting cities like Matrouh and Asyut.
+* **Top Platform:** **Homesmart** leads with 78 units sold.
+* **Delivery Status Breakdown:**
+  * **On-time Delivery:** 42%
+  * **Early Delivery:** 38%
+  * **Delayed Delivery:** 16%
+  * **Failed Delivery:** 4%
 
-3-Inventory Optimization: Prioritize stock for high-demand categories (Beds) and top-selling color variants (Black/White) to maximize revenue.
+---
 
-<img width="1600" height="832" alt="page2" src="https://github.com/user-attachments/assets/1b1a9b4e-26f2-4e52-b88a-291151cf2d4d" />
-<img width="1600" height="838" alt="page1" src="https://github.com/user-attachments/assets/e512fda3-9bd0-454d-88dd-06cf73b15a11" />
-<img width="1600" height="844" alt="page3" src="https://github.com/user-attachments/assets/c058d899-3699-4555-a391-fe7e0d0c08e5" />
+## 🛠️ Tools & Technologies
 
+* **Data Analysis & Visualization Dashboard**
+* **Business Intelligence & KPI Design**
+* **Sales Tracking & Performance Optimization**
+
+---
+
+## 🎯 Business Value
+
+* Enables executives to track core KPIs at a glance
+* Identifies high-performing regions, categories, and platforms
+* Highlights supply chain and delivery bottlenecks (such as failed sales) to improve fulfillment efficiency
+* Supports strategic planning and revenue growth optimization
+
+---
+
+## 📷 Dashboard Preview
+
+<img width="1600" height="832" alt="page2" src="https://github.com/user-attachments/assets/1be2b7b1-61ec-4267-8ade-d019fb1159a1" />
+<img width="1600" height="838" alt="page1" src="https://github.com/user-attachments/assets/12f769b9-de18-481c-9593-0875c09faa8a" />
+<img width="1600" height="844" alt="page3" src="https://github.com/user-attachments/assets/2e42b3ab-3ec7-4ccb-a820-b23396371429" />
