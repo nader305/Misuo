@@ -4,14 +4,14 @@ This report provides a comprehensive performance analysis of the MISUO platform 
    
  The following metrics summarize the overall operational and financial performance:
  
-Metric                              Value
-Total Orders                        118
-Total Quantity                      137
-Sold Units                          118
-Unsold Units                        19
-Total Sales                         $1,163,380
-Average Sales                       $10,404
-Failed Sales                        $218,529
+Metric  :  Value
+Total Orders:  118
+Total Quantity: 137
+Sold Units: 118
+Unsold Units: 19
+Total Sales: $1,163,380
+Average Sales : $10,404
+Failed Sales:$218,529
 ----------------------------------------------------------------------
 3. Geographical Sales Analysis
 The sales distribution indicates a strong presence in the capital, with significant opportunities for growth in other cities.
